@@ -27,4 +27,4 @@ Answer: piano
 ```
 
 ## Help
-To get the application description, usage syntax and the list of options use `cargo run -- --help`
+To get the application's description, usage syntax or the list of options use `cargo run -- --help`
